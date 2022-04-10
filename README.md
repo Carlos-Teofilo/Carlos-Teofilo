@@ -1,9 +1,10 @@
 ### Oi, eu sou o Carlos!
 
-- Cursando Análise e Desenvolvimento de Sistemas
-- Estudando Python
-- Procurando por experiência na área de programação
-- 📫 Conte-me no email: carlosneto2810@hotmail.com
+- Estou cursando Análise e Desenvolvimento de Sistemas
+- Novo no mundo da programação
+- Procurando estágio em Python (Comecei a estudar a linguagem há 4 meses)
+- Gosto de aprender coisas novas e melhorar o meu entendimento sobre o que eu já sei
+- 📫 Email: carlosneto2810@hotmail.com
  
 ##
 <!-- 
