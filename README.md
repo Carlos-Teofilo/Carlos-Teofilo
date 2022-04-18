@@ -3,7 +3,7 @@
 - Estou cursando Análise e Desenvolvimento de Sistemas
 - Novo no mundo da programação
 - Procurando estágio em Python (Comecei a estudar a linguagem há 4 meses)
-- Gosto de aprender coisas novas e melhorar o meu entendimento sobre o que eu já sei
+- Gosto de aprender
 - 📫 Email: carlosneto2810@hotmail.com
  
 ##
