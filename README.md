@@ -2,5 +2,5 @@
 
 - Cursando Análise e Desenvolvimento de Sistemas
 - Linguagens: Python ❤️, Javascript, Java
-- Proativo, determinado e muita vontade de aprender e aprimorar  
+- Proativo, determinado, comunicativo, adaptável e muita vontade de aprender e me aprimorar  
 - 📫 Email: carlosneto2810@hotmail.com
