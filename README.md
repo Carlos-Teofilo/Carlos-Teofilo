@@ -1,6 +1,7 @@
-### Oi, eu sou o Carlos!
+# Oi, eu sou o Carlos!
 
 - Cursando Análise e Desenvolvimento de Sistemas
-- Linguagens: Python ❤️, Javascript, Java
+- Python ❤️, Django, Javascript, HTML5, CSS3
 - Proativo, determinado, comunicativo, adaptável e muita vontade de aprender e me aprimorar  
-- 📫 Email: carlosneto2810@hotmail.com
+- Email: carlosneto2810@hotmail.com
+- Linkedin: https://www.linkedin.com/in/carlosteofilo/
