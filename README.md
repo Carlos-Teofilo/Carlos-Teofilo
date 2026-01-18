@@ -10,5 +10,5 @@ Sou um desenvolvedor apaixonado por tecnologia e atualmente estou focando minha 
 
 ### 🛠️ Tecnologias e Interesses
 - Backend: .NET, C#
-- Futuras Frentes: Arquitetura de Software, Microsserviços, APIs, Cloud Computing
-- Em constante aprendizado e construindo minha base sólida em desenvolvimento.
+- Futuras Frentes: Arquitetura de Software, Microsserviços, Cloud Computing
+- Em constante aprendizado e construindo minha base sólida em desenvolvimento Backend.
